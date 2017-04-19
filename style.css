@@ -1,0 +1,47 @@
+body {
+  font-size: 24px;
+  font-family: 'Ranga', cursive;
+}
+ul a{
+  list-style-type: none;
+  text-decoration: none;
+  color: black;
+
+}
+ol li a{
+  list-style-type: none;
+  text-decoration: none;
+  color: black;
+
+}
+
+ul li{
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+
+}
+
+ol li{
+  list-style-type: none;
+  color: black;
+
+}
+ul#top {
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+ul#top li {
+  float: left;
+}
+ul#top li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
