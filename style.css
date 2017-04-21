@@ -2,7 +2,7 @@ body {
   font-size: 24px;
   font-family: 'Ranga', cursive;
   background-color: Blue;
-  
+
 }
 ul a{
   list-style-type: none;
@@ -29,6 +29,7 @@ ol li{
   color: black;
 
 }
+/* Top navigation bar */
 ul#top {
   list-style-type: none;
   margin: 0;
@@ -47,3 +48,4 @@ ul#top li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+/*end*/
