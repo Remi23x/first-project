@@ -1,6 +1,8 @@
 body {
   font-size: 24px;
   font-family: 'Ranga', cursive;
+  background-color: Blue;
+  
 }
 ul a{
   list-style-type: none;
